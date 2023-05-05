@@ -18,6 +18,7 @@
   "author": "qq358856605",
   "license": "GPL-3.0-or-later",
   "dependencies": {
+    "minimis": "^0.1.7",
     "minimist": "^1.2.8"
   }
 }
