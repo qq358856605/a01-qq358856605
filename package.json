@@ -1,0 +1,23 @@
+{
+  "name": "xw-1",
+  "version": "1.0.0",
+  "description": "test-xw-1",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=555",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "qq358856605"
+  },
+  "keywords": [
+    "web",
+    "server"
+  ],
+  "author": "qq358856605",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
